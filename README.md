@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to be a programmer. Currently using C# the most.
 - 📫 How to reach me: kevingjokaj20@gmail.com
 - 😄 Pronouns: I don't do that
-- ⚡ Fun fact: you can support me on [ko-fi](https::/ko-fi.com/kevingjokaj)
+- ⚡ Fun fact: you can support me on: ko-fi.com/kevingjokaj
 
 <!---
 Gjergj-Kastrioti/Gjergj-Kastrioti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
